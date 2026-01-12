@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jhonatan Santos, Desenvolvedor Backend com foco em Java e Spring Boot, apaixonado por transformar ideias em soluções escaláveis e de alta qualidade.
+- Olá! Eu sou o Jhonatan Santos, Desenvolvedor Backend com foco em Java e Spring Boot, apaixonado por transformar ideias em soluções escaláveis e de alta qualidade.
 
 - 🔭 Especialista em APIs REST | Foco em Qualidade
 
